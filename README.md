@@ -1,12 +1,13 @@
 # Hello there 👋🏽
 <br>
-<br>**About Me:**
+<br>About Me:
 <br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
 <br>🎓 I have a Bachelor's degree in Computer Science;
 <br>inished project is a WPF Library Management system;
 <br>💻 My current project is a Food & Symptoms Tracker web application.
 <br>
-<br>**💻 Tech Stack:**
+<br>
+<br>💻 Tech Stack:
 <br>--> **Programming Languages:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 <br>--> **Frameworks/Technologies**: XSLT, XPath, .NET, WPF, REST API
 <br>--> **Markup/Data Formats**: XSL-FO, HTML, CSS, XML, JSON, CSV
@@ -18,7 +19,8 @@
 <br>--> **Graphic Design Tools**: Canva, Paint.NET
 <br>--> **Other**: ChatGPT
 <br>
-<br>**📚 Currently learning:**
+<br>
+<br>📚 Currently learning:
 <br>--> Entity Framework
 <br>--> JavaScript
 <br>--> MVC
