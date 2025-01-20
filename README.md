@@ -1,14 +1,29 @@
-# 💫 About Me:
-Hello there 👋🏽<br><br>💼 IT Professional & Aspiring Full-Stack .NET Developer;<br>🎓 I have a Bachelor's degree in Computer Science;<br>💻 My latest finished project is a WPF Library Management system;<br>💻 My current project is a Food & Symptoms Tracker web application.<br><br>🌱Competencies:<br>--> Programming Languages: C#<br>--> Frameworks/Technologies: XSLT, XPath, .NET, WPF, REST API<br>--> Markup/Data Formats: XSL-FO, HTML, CSS, XML, JSON, CSV<br>--> Tools: Visual Studio, NuGet, Git, TFS, Swagger<br>--> Database Management: MSSQL<br>--> Collaboration: Teamwork, WebEx, GoToMeeting, Zoom, Microsoft Teams, Jira<br>--> Office: Outlook, Word, Excel, SharePoint, Visio, PowerPoint<br>--> Customer Relationship Management Tools: ZenDesk, Salesforce<br>--> Graphic Design Tools: Canva, Paint.NET<br>--> Other Tools/Services: ChatGPT<br><br>📚 Currently learning:<br>--> Entity Framework<br>--> JavaScript<br>--> MVC<br>--> PowerShell<br>--> ASP.NET Core<br><br>📫 Lets connect on LinkedIn: gabriela-toader-5b067a67
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-toader-5b067a67) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
----
-[![](https://visitcount.itsvg.in/api?id=gabrielatoader&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Hello there 👋🏽
+<br>
+## About Me:
+<br>
+<br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
+<br>🎓 I have a Bachelor's degree in Computer Science;
+<br>inished project is a WPF Library Management system;
+<br>💻 My current project is a Food & Symptoms Tracker web application.
+<br>
+## <br>💻 Tech Stack:
+<br>--> **Programming Languages:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+<br>--> **Frameworks/Technologies**: XSLT, XPath, .NET, WPF, REST API
+<br>--> **Markup/Data Formats**: XSL-FO, HTML, CSS, XML, JSON, CSV
+<br>--> **Tools**: Visual Studio, NuGet, Git, TFS, Swagger
+<br>--> **Database Management**: MSSQL
+<br>--> **Collaboration**: Teamwork, WebEx, GoToMeeting, Zoom, Microsoft Teams, Jira
+<br>--> **Office**: Outlook, Word, Excel, SharePoint, Visio, PowerPoint
+<br>--> **Customer Relationship Management Tools**: ZenDesk, Salesforce
+<br>--> **Graphic Design Tools**: Canva, Paint.NET
+<br>--> **Other**: ChatGPT
+<br>
+## <br>📚 Currently learning:
+<br>--> Entity Framework
+<br>--> JavaScript
+<br>--> MVC
+<br>--> PowerShell
+<br>--> ASP.NET Core
+<br>
+<br>📫 Lets connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-toader-5b067a67) 
