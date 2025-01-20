@@ -26,4 +26,4 @@
 <br>--> PowerShell
 <br>--> ASP.NET Core
 <br>
-<br>📫 Lets connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriela-toader-5b067a67) 
+<br>📫 Lets connect on LinkedIn: gabriela-toader-5b067a67
