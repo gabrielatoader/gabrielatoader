@@ -3,7 +3,8 @@
 <br>About Me:
 <br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
 <br>🎓 I have a Bachelor's degree in Computer Science;
-<br>💻 Currently building a Food & Symptoms Tracker web application.
+<br>💻 Next up: a Library Management system application /w WPF.
+<br>💻 Next up: a Food & Symptoms Tracker web application.
 <br>
 <br>
 <br>💻 Tech Stack:
