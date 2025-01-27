@@ -3,7 +3,7 @@
 <br>About Me:
 <br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
 <br>🎓 I have a Bachelor's degree in Computer Science;
-<br>💻 Next up: a Library Management system application /w WPF.
+<br>💻 Currently building a Library Management system application /w WPF.
 <br>💻 Next up: a Food & Symptoms Tracker web application.
 <br>
 <br>
