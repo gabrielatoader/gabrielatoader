@@ -4,20 +4,14 @@
 <br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
 <br>🎓 I have a Bachelor's degree in Computer Science;
 <br>💻 Currently building a Library Management system application /w WPF.
-<br>💻 Next up: a Food & Symptoms Tracker web application.
 <br>
 <br>
 <br>💻 Tech Stack:
 <br>--> Programming Languages: C#
 <br>--> Frameworks/Technologies: XSLT, XPath, .NET, WPF, REST API
 <br>--> Markup/Data Formats: XSL-FO, HTML, CSS, XML, JSON, CSV
-<br>--> Tools: Visual Studio, NuGet, Git, TFS, Swagger
 <br>--> Database Management: MSSQL
-<br>--> Collaboration: Teamwork, WebEx, GoToMeeting, Zoom, Microsoft Teams, Jira
-<br>--> Office: Outlook, Word, Excel, SharePoint, Visio, PowerPoint
-<br>--> Customer Relationship Management Tools: ZenDesk, Salesforce
-<br>--> Graphic Design Tools: Canva, Paint.NET
-<br>--> Other: ChatGPT
+<br>--> Tools: Visual Studio, NuGet, Git, TFS, Swagger, Teamwork, Zoom, Microsoft Teams, Jira, Microsoft Office, ZenDesk
 <br>
 <br>
 <br>📚 Currently learning:
