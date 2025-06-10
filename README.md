@@ -21,4 +21,4 @@
 <br>--> PowerShell
 <br>--> ASP.NET Core
 <br>
-<br>📫 Lets connect on LinkedIn: gabriela-toader-5b067a67
+<br>📫 Lets connect on LinkedIn: [gabriela-toader](https://www.linkedin.com/in/gabriela-toader/)
