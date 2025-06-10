@@ -2,7 +2,7 @@
 <br>
 <br>About Me:
 <br>💼 IT Professional & Aspiring Full-Stack .NET Developer;
-<br>🎓 I have a Bachelor's degree in Computer Science;
+<br>🎓 I have a Bachelor's degree in Economic Informatics & Cybernetics;
 <br>💻 Currently building a Library Management system application using WPF.
 <br>
 <br>
