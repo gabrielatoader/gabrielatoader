@@ -1,24 +1,21 @@
 # Hello there 👋🏽
 <br>
 <br>About Me:
-<br>💼 IT Professional & Aspiring Full-Stack Developer;
-<br>🎓 I have a Bachelor's degree in Economic Informatics & Cybernetics;
-<br>💻 Currently building a Library Management system application using WPF.
+<br>💼 Junior Full-Stack Developer and IT Professional with 10+ years of experience in software implementation and technical support;
+<br>🎓 Bachelor’s degree in Economic Informatics and Cybernetics;
+<br>💻 Currently collaborating with CleanCodeIT on full-stack projects using React.js, Node.js, and other technologies from the JavaScript ecosystem;
 <br>
 <br>
 <br>💻 Tech Stack:
-<br>--> Programming Languages: C#
-<br>--> Frameworks/Technologies: XSLT, XPath, .NET, WPF, REST API
-<br>--> Markup/Data Formats: XSL-FO, HTML, CSS, XML, JSON, CSV
+<br>--> Programming Languages: C#, JavaScript
+<br>--> Frameworks/Technologies: XSLT, .NET, WPF, REST API
+<br>--> Markup/Data Formats: HTML, CSS, XSL-FO, XML, JSON, CSV
 <br>--> Database Management: MSSQL
-<br>--> Tools: Visual Studio, NuGet, Git, TFS, Swagger, Teamwork, Zoom, Microsoft Teams, Jira, Microsoft Office, ZenDesk
+<br>--> Tools: Visual Studio, Visual Studio Code, GitHub, TFS, Postman, Swagger
 <br>
 <br>
 <br>📚 Currently learning:
-<br>--> Entity Framework
-<br>--> JavaScript
-<br>--> MVC
-<br>--> PowerShell
-<br>--> ASP.NET Core
+<br>--> React.js
+<br>--> Node.js
 <br>
 <br>📫 Lets connect on LinkedIn: https://www.linkedin.com/in/gabriela-toader/
