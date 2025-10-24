@@ -7,15 +7,12 @@
 <br>
 <br>
 <br>💻 Tech Stack:
-<br>--> Programming Languages: C#, JavaScript
-<br>--> Frameworks/Technologies: XSLT, .NET, WPF, REST API
-<br>--> Markup/Data Formats: HTML, CSS, XSL-FO, XML, JSON, CSV
-<br>--> Database Management: MSSQL
-<br>--> Tools: Visual Studio, Visual Studio Code, GitHub, TFS, Postman, Swagger
+<br>→ Programming Languages: C#, JavaScript;
+<br>→ Frameworks / Technologies: .NET, WPF, React.js, Node.js, XSLT, REST APIs;
+<br>→ Markup / Data Formats: HTML, CSS, XSL-FO, XML, JSON, CSV;
+<br>→ Database Management: MS SQL Server;
+<br>→ Tools: Visual Studio, Visual Studio Code, GitHub, TFS, Postman, Swagger;
+<br>→ Focus: Expanding from back-end and integration work into modern full-stack development.
 <br>
-<br>
-<br>📚 Currently learning:
-<br>--> React.js
-<br>--> Node.js
-<br>
+
 <br>📫 Lets connect on LinkedIn: https://www.linkedin.com/in/gabriela-toader/
